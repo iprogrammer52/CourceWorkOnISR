@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourceWorkOnISR", "CourceWorkOnISR\CourceWorkOnISR.csproj", "{CF87EEE9-7E19-4A89-9ABD-1B2678B490BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF87EEE9-7E19-4A89-9ABD-1B2678B490BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF87EEE9-7E19-4A89-9ABD-1B2678B490BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF87EEE9-7E19-4A89-9ABD-1B2678B490BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF87EEE9-7E19-4A89-9ABD-1B2678B490BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19AF881-F452-4AE9-911A-3C66C5B9A7D1}
+	EndGlobalSection
+EndGlobal
